@@ -22,3 +22,5 @@ catkin_make
 ```
 
 ## Using
+
+To avoid conflicting with the 2D nav goal, please click the `minus` icon to remove it. Then click on the `plus` icon to choose the 3D nav goal. You may send the goal by left clicking and deciding the orientation of the goal. Without letting go of the mouse, right click to indicate the height of the goal.
