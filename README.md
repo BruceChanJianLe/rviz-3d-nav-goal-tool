@@ -2,7 +2,7 @@
 
 As technology continues to improve, the need for 3d navigation has become more and more important. Here is an old tool from Willow Garage which provides the support for 3d nav goal. The code is extracted from this [repository](https://github.com/HKUST-Aerial-Robotics/plan_utils), please visit for more information.  
 
-## Building and Using
+## Building
 
 This package is just like any other ROS pacakge, just clone it into your workspace and compile it accordingly.
 
@@ -20,3 +20,5 @@ building:
 ```bash
 catkin_make
 ```
+
+## Using
